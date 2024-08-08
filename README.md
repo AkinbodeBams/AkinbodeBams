@@ -17,10 +17,6 @@
   👋🏼
 </h1>
 </div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -44,8 +40,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 ## </div>
-
-### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akinbodeBams&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
